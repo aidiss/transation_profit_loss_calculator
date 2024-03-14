@@ -1,0 +1,5 @@
+,position,quantity,unit_price,profit_loss
+a,AAPL,1.0,1000.0,900.0
+b,AAPL,1.0,1000.0,800.0
+c,GOOGL,2.0,2000.0,3400.0
+d,MSFT,3.0,3000.0,6900.0
